@@ -1,0 +1,6 @@
+{
+  "name": "EDUZ",
+  "description": "EDUZ is a smart study companion with AI MCQ generation, creative answers, note conversion, and personalized study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

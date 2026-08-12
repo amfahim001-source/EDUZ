@@ -1,0 +1,31 @@
+{
+  "short_name": "EDUZ",
+  "name": "EDUZ - স্মার্ট লার্নিং ও এক্সাম প্ল্যাটফর্ম",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#002D20",
+  "theme_color": "#00E676",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "বাংলাদেশের সেরা এইচএসসি, এসএসসি ও জেএসসি লার্নিং ও পরীক্ষা প্ল্যাটফর্ম।"
+}
